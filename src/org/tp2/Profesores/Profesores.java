@@ -17,6 +17,5 @@ public class Profesores {
 	public void setFamilia(String familia) {
 		this.familia = familia;
 	}
-	
 
 }
