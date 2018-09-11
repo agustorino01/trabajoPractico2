@@ -1,12 +1,11 @@
 package org.tp2.Alumno;
-
 import javax.persistence.*;
-
 
 import org.openxava.annotations.*;
 
 @Entity
 public class Alumno {
+	
 	@Column(length=12) @Required
 	private int fecha_n;
 	
