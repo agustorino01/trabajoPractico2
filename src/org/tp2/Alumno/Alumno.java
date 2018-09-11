@@ -7,7 +7,6 @@ import org.openxava.annotations.*;
 
 @Entity
 public class Alumno {
-	
 	@Column(length=12) @Required
 	private int fecha_n;
 	
@@ -51,7 +50,5 @@ public class Alumno {
 
 	@Column(length=100) @Required
 	private String nacionalidad;
-
-
 
 }
