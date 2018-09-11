@@ -40,5 +40,4 @@ public class Horarios {
 		this.ed_fisica = ed_fisica;
 	}
 
-	
 }
